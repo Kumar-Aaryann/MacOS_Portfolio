@@ -40,11 +40,6 @@ const Resume = ({ closeWindow, focusWindow }) => {
       <Document file="files/Resume.pdf">
         <Page pageNumber={1} renderTextLayer renderAnnotationLayer />
       </Document>
-
-      <div className="p-4">
-        {/* Replace with your actual resume content */}
-        {/* <p>This is where your resume details go.</p> */}
-      </div>
     </>
   );
 };
