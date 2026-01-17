@@ -77,25 +77,25 @@ const dockApps = [
 const blogPosts = [
   {
     id: 1,
-    date: "Sep 2, 2025",
+    date: "Latest article",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
+      "Exploring the Future of Technology: Top Trends to Watch in 2026",
     image: "/images/blog1.png",
-    link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+    link: "https://www.wired.com/",
   },
   {
     id: 2,
-    date: "Aug 28, 2025",
-    title: "The Ultimate Guide to Mastering Three.js for 3D Development",
+    date: "Today's latest",
+    title: "AI in Everyday Life: How Artificial Intelligence is Changing the World",
     image: "/images/blog2.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+    link: "https://techcrunch.com/",
   },
   {
     id: 3,
-    date: "Aug 15, 2025",
-    title: "The Ultimate Guide to Mastering GSAP Animations",
+    date: "Find out more latest",
+    title: "AI and Machine Learning: Transforming Industries and Shaping the Future",
     image: "/images/blog3.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+    link: "https://gizmodo.com/",
   },
 ];
 
