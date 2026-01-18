@@ -225,7 +225,7 @@ const WORK_LOCATION = {
     // ▶ Project 1
     {
       id: 5,
-      name: "Nike Ecommerce Website Application",
+      name: "Nike Website Clone",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-10 left-5", // icon position inside Finder
@@ -251,7 +251,7 @@ const WORK_LOCATION = {
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/fZdTYswuZjU?si=Awjl-pIst9e09_UU",
+          href: "https://google.com",
           position: "top-10 right-20",
         },
         {
@@ -278,7 +278,7 @@ const WORK_LOCATION = {
     // ▶ Project 2
     {
       id: 6,
-      name: "AI Resume Analyzer",
+      name: "Gaming Website",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-52 right-80",
@@ -286,30 +286,27 @@ const WORK_LOCATION = {
       children: [
         {
           id: 1,
-          name: "AI Resume Analyzer Project.txt",
+          name: "Gaming Website.txt",
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
           position: "top-5 right-10",
           description: [
-            "AI Resume Analyzer is a smart tool that helps you perfect your resume with instant feedback.",
-            "Instead of guessing what recruiters want, you get AI-powered insights on keywords, formatting, and overall impact.",
-            "Think of it like having a career coach—pointing out strengths, fixing weaknesses, and boosting your chances of landing interviews.",
-            "It's built with Next.js and Tailwind, so it runs fast, looks professional, and works seamlessly on any device.",
+            "This gaming platform brings together classic and modern games in one place. Users can explore a wide range of titles, discover new releases, and enjoy an easy-to-use, responsive experience built with modern web technologies.",
           ],
         },
         {
           id: 2,
-          name: "ai-resume-analyzer.com",
+          name: "Gaming Website.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/iYOz165wGkQ?si=R1hs8Legl200m0Cl",
+          href: "https://google.com",
           position: "top-20 left-20",
         },
         {
           id: 4,
-          name: "ai-resume-analyzer.png",
+          name: "gaming-website.png",
           icon: "/images/image.png",
           kind: "file",
           fileType: "img",
@@ -331,7 +328,7 @@ const WORK_LOCATION = {
     // ▶ Project 3
     {
       id: 7,
-      name: "Food Delivery App",
+      name: "CarePlus",
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-10 left-80",
@@ -339,30 +336,27 @@ const WORK_LOCATION = {
       children: [
         {
           id: 1,
-          name: "Food Delivery App Project.txt",
+          name: "CarePlus.txt",
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
           position: "top-5 left-10",
           description: [
-            "Our Food Delivery App is a fast and convenient way to order meals from your favorite restaurants.",
-            "Instead of making calls or waiting in line, you can browse menus, customize orders, and track deliveries in real time.",
-            "Think of it like having your favorite restaurants in your pocket—ready to deliver anytime, anywhere.",
-            "It’s built with React Native, so it works smoothly on both iOS and Android with a clean, modern design.",
+            "CarePlus is a healthcare web platform that allows users to book doctor appointments, schedule visits, and manage their health records conveniently through a secure and user-friendly interface.",
           ],
         },
         {
           id: 2,
-          name: "food-delivery-app.com",
+          name: "CarePlus.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
-          href: "https://youtu.be/LKrX390fJMw?si=cExkuVhf2DTV9G2-",
+          href: "https://google.com",
           position: "top-10 right-20",
         },
         {
           id: 4,
-          name: "food-delivery-app.png",
+          name: "careplus.png",
           icon: "/images/image.png",
           kind: "file",
           fileType: "img",
