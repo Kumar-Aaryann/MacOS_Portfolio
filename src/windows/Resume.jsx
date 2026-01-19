@@ -11,7 +11,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
   import.meta.url
 ).toString();
 
-const Resume = ({ closeWindow, focusWindow }) => {
+const Resume = ({ focusWindow }) => {
   return (
       <>
       <div

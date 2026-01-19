@@ -6,6 +6,10 @@ import Terminal from "#windows/Terminal";
 import { Safari } from "#windows";
 import Resume from "#windows/Resume";
 import Finder from "#windows/Finder";
+import Text from "#windows/Text";
+import Image from "#windows/Image";
+import Contact from "#windows/Contact";
+
 
 
 gsap.registerPlugin(Draggable);
@@ -21,6 +25,9 @@ const App = () => {
       <Safari />
       <Resume />
       <Finder />
+      <Text />
+      <Image />
+      <Contact />
     </main>
   );
 };
