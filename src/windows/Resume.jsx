@@ -11,6 +11,10 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
   import.meta.url
 ).toString();
 
+
+//For deoployemnt use this//
+// pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.js`;
+
 const Resume = ({ focusWindow }) => {
   return (
       <>
