@@ -421,7 +421,7 @@ const ABOUT_LOCATION = {
       subtitle: "Meet the Developer Behind the Code",
       image: "/images/My-photo.png",
       description: [
-        "Hey! I’m Aryan 👋, I’m an entry-level Software Developer with practical experience in React, Next.js, and full-stack web development. Through internships and projects, I’ve built scalable applications and gained a strong understanding of modern web technologies, teamwork, and problem-solving.",
+        "Hey! I’m Aryan 👋, I’m a Software Developer with practical experience in React, Next.js, and full-stack web development. Through internships and projects, I’ve built scalable applications and gained a strong understanding of modern web technologies, teamwork, and problem-solving.",
         "Outside of dev work, I’m learning Japanese while building web apps, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
       ],
     },
