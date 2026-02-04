@@ -374,6 +374,55 @@ const WORK_LOCATION = {
         },
       ],
     },
+    // ▶ Project 4
+    {
+      id: 17,
+      name: "Therapy Center",
+      icon: "/images/folder.png",
+      kind: "folder",
+      position: "top-55 left-85",
+      windowPosition: "top-[33vh] left-7",
+      children: [
+        {
+          id: 1,
+          name: "Therapy-Center.txt",
+          icon: "/images/txt.png",
+          kind: "file",
+          fileType: "txt",
+          position: "top-15 left-20",
+          description: [
+            "CarePlus is a healthcare web platform that allows users to book doctor appointments, schedule visits, and manage their health records conveniently through a secure and user-friendly interface.",
+          ],
+        },
+        {
+          id: 2,
+          name: "Therapy-Center.com",
+          icon: "/images/safari.png",
+          kind: "file",
+          fileType: "url",
+          href: "https://therapy-center.netlify.app/",
+          position: "top-10 right-20",
+        },
+        {
+          id: 4,
+          name: "Therapy-Center.png",
+          icon: "/images/image.png",
+          kind: "file",
+          fileType: "img",
+          position: "top-52 right-80",
+          imageUrl: "/images/project-3.png",
+        },
+        {
+          id: 5,
+          name: "Design.fig",
+          icon: "/images/plain.png",
+          kind: "file",
+          fileType: "fig",
+          href: "https://therapy-center.netlify.app/",
+          position: "top-60 right-20",
+        },
+      ],
+    },
   ],
 };
 
